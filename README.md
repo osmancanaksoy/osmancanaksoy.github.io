@@ -1,1 +1,0 @@
-# osmancanaksoy.github.io
