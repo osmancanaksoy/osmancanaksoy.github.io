@@ -106,7 +106,7 @@ body { font-family: "Poppins", sans-serif; }
 
 .skill-card:hover { transform: translateY(-5px); }
 
-.tech-logo { width: 28px !important; height: 28px !important; object-fit: contain; margin: 0 !important; margin-right: 5px !important}
+.tech-logo { width: 28px !important; height: 28px !important; object-fit: contain; margin: 0 !important; margin-right: 5px !important; }
 
 .tech-item { transition: all 0.3s ease; background: rgba(var(--bs-primary-rgb), 0.05); border: 1px solid rgba(var(--bs-primary-rgb), 0.1) !important; }
 
