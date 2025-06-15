@@ -116,8 +116,6 @@ body { font-family: "Poppins", sans-serif; }
 
 .tech-category h4 i { margin-right: 0.5rem; color: var(--bs-primary); }
 
-.tech-text { color: black !important; }
-
 .search-box { box-shadow: none !important; }
 
 .post.card { border-radius: 15px; text-decoration: none !important; padding: 15px; height: 100%; }
